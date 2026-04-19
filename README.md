@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&height=180&section=header&text=ACCESS_GRANTED:_MUBAH3R&fontSize=40&fontColor=00FF41&animation=fadeIn" />
